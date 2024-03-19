@@ -4,12 +4,12 @@
 }
 
 .cabecalho {
-    background-color: #095bdf;
+    background-color: #033810;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 13px 0;
 }
 
 .cabecalho-imagem{
@@ -27,15 +27,19 @@
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#033810,#64e480);
     color:white;
-    display: flex;
+    display:
+    .escola-div-conteudo{
+        width: 35%; flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 
 .escola-div-conteudo{
+    .escola-div-conteudo{
+        width: 35%;
     width: 35%;
 }
 .escola-titulo
