@@ -1,4 +1,4 @@
-* {
+ {
     margin: 0;
     padding: 0;
 }
@@ -9,7 +9,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 13px 0;
+    padding: 30Spx 0;
 }
 
 .cabecalho-imagem{
@@ -29,19 +29,17 @@
 .escola{
     background-image: linear-gradient(#033810,#64e480);
     color:white;
-    display:
-    .escola-div-conteudo{
-        width: 35%; flex;
+    display:flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
 
 .escola-div-conteudo{
-    .escola-div-conteudo{
         width: 35%;
-    width: 35%;
 }
-.escola-titulo
+
+.escola-titulo {
     padding: 24px 0;
 }
+   
